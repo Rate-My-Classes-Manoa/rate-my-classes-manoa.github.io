@@ -10,24 +10,24 @@ For the community board, where people can post upcoming local events, they do no
 
 Some of these pages include:
 
-1) Landing page (information about the site).
-2) Community event page (lets people post events w/o logging in).
-3) Class review page (login required to post).
-4) Professor review page (login required to post).
-5) Sign in/Sign up page.
+1) Landing page (information about the site). <br>
+2) Community event page (lets people post events w/o logging in). <br>
+3) Class review page (login required to post). <br>
+4) Professor review page (login required to post). <br>
+5) Sign in/Sign up page. <br>
 6) Admin page.
 
 ### Use Case Ideas
 The completed page might not need to implement all the above pages, but the end should be:
 
-1) Upon opening website, shows the information, review page, community events and login.
-2) User able to sign in or create an account.
-3) Admin able to login and edit posts.
+1) Upon opening website, shows the information, review page, community events and login. <br>
+2) User able to sign in or create an account. <br>
+3) Admin able to login and edit posts. 
 
 ### Beyond the Basics
 Some more advanced ideas include:
 
-1) Searching in each page via search bar or alphabetical lists.
-2) Starred ratings as opposed to numeric ratings for classes and professors.
-3) Users able to flag reviews for the admin to delete.
+1) Searching in each page via search bar or alphabetical lists. <br>
+2) Starred ratings as opposed to numeric ratings for classes and professors. <br>
+3) Users able to flag reviews for the admin to delete. <br>
 4) Like reviews.
