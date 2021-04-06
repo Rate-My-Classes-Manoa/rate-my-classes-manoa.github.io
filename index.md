@@ -1,7 +1,7 @@
 ## Overview
-The Problem There isn’t a dedicated website for UH specific reviews, for example, ratemyprofessor doesn’t come off as personalized or “peer reviewed” because it doesn’t really have profiles of people.
+The Problem: There isn’t a dedicated website for UH specific reviews, for example, ratemyprofessor doesn’t come off as personalized or “peer reviewed” because it doesn’t really have profiles of people.
 
-The Solution Create an interactive rating website for events and professors only for UH manoa students for relevant reviews.
+The Solution: Create an interactive rating website for events and professors only for UH manoa students for relevant reviews.
 
 ### Mockup Page Ideas
 A user would create a profile using their UH manoa emails to post reviews for certain classes/professors they’ve taken. Users do not need to login to view the reviews however.
