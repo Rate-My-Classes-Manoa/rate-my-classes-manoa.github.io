@@ -115,13 +115,23 @@ The following sections document the development history of Rate My Classes.
 ### Milestone 1: Deploy and Mockup Development
 
 The goal of Milestone 1 was to 
-- deploy the system to [Digital Ocean](https://www.digitalocean.com/)
-- create a landing page
-- create mockups for at least four other pages.
+- Deploy the system to [Digital Ocean](https://www.digitalocean.com/),
+- Create a landing page, and
+- Create mockups for at least four other pages.
 
 Milestone 1 was managed using the [rate-my-classes GitHub Project Board M1](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/1):
 
 <img style="display: block; margin-left: auto; margin-right: auto" src="doc/m1.png" alt="the M1 project board">
+
+### Milestone 2: Great Improvements
+
+The goal of Milestone 2 is to
+- Significantly improve the functionality and quality of the application beyond M1, and
+- Significantly improve the software engineering process beyond M1.
+
+Milestone 2 is being managed using the [rate-my-classes GitHub Project Board M2](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/2):
+
+<img style="display: block; margin-left: auto; margin-right: auto" src="doc/m2.png" alt="the M2 project board">
 
 <!--
 ### Mockup Page Ideas
