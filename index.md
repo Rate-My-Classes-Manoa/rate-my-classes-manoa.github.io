@@ -55,7 +55,31 @@ We are interested in your experience using Rate My Classes! If you would like, p
 
 ## Developer Guide
 
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
 ### Installation
+
+First, [install Meteor](https://www.meteor.com/developers/install).
+
+Second, visit the [Rate My Classes github page](https://github.com/Rate-My-Classes-Manoa/rate-my-classes), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the `rate-my-classes/app` directory and install libraries with:
+
+```css
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```css
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Application Design
+
+Rate My Classes is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/). Please use the videos and documentation at that site to better acquaint yourself with the basic application design of Rate My Classes.
 
 ### Data Model
 
