@@ -38,6 +38,16 @@ Alternatively, you can select “Get Started” to go to the following page and 
     <img src="doc/dev-team-click.png" alt="screenshot of clicking on a team member button"><br>
 </p>
 
+### Data Model
+
+The main data model of RateMyClasses consist of three collections (Professor, Classes, and Profile). The Professor and Classes collections interact with each other though the "join" collection Classes/Professor. The Profile and Classes collection interact with each other though the "join" collection Profile/Classes.
+
+
+<p align="center">
+    <img src="doc/RateMyClassesDiagram.png" alt="RateMyClasses Diagram">
+</p>
+
+The fields in bold are the primary keys that join each collection.
 <!--
 
 ### Mockup Page Ideas
