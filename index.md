@@ -153,7 +153,7 @@ Milestone 2 is being managed using the [rate-my-classes GitHub Project Board M2]
 
 ## Contact Us
 
-Rate My Classes is designed, implemented, and maintained by Ujjwal Gautam, Tony Long, Seth Tanoue, and [Mark Young](mailto:masyoung@hawaii.edu).
+Rate My Classes is designed, implemented, and maintained by [Ujjwal Gautam](mailto:ugautam@hawaii.edu), Tony Long, Seth Tanoue, and [Mark Young](mailto:masyoung@hawaii.edu).
 
 <br><br><br><br>
 <strong>[rate-my-classes-manoa.github.io](https://rate-my-classes-manoa.github.io/) is maintained by [rate-my-classes](https://github.com/Rate-My-Classes-Manoa). </strong>
