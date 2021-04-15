@@ -9,9 +9,9 @@
 <br>
 
 ## Overview
-The Problem: There isn’t a dedicated website for UH specific reviews, for example, ratemyprofessor doesn’t come off as personalized or “peer reviewed” because it doesn’t really have profiles of people.
+There isn’t a dedicated website for University of Hawaii specific reviews. For example, [ratemyprofessors.com](https://www.ratemyprofessors.com/) doesn’t come off as personalized or “peer reviewed” because it doesn’t have profiles of people.
 
-The Solution: Create an interactive rating website for events and professors only for UH manoa students for relevant reviews.
+In response to this, we're creating an interactive website to rate events and professors, but only for UH Manoa students.
 
 <br>
 
