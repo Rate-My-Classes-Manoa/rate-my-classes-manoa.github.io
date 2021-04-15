@@ -50,7 +50,7 @@ Alternatively, you can select “Get Started” to go to the following page and 
 
 ### Profile Page
 
-Once logged in, you will be taken to their profile page.
+Once logged in, you will be taken to your profile page.
 
 <img style="display: block; margin-left: auto; margin-right: auto" src="doc/userProfile.png" alt="mockup of the User Profile page">
 
