@@ -10,20 +10,27 @@ A live deployment of Rate My Classes can be found at [https://ratemyclassesmanoa
 This section provides a walkthrough of the Rate My Classes Manoa user interface and its capabilities.
 
 ### Landing Page
-
-<img src="doc/landing.png" alt="screenshot of the landing page">
+<img style="display: block; margin-left: auto; margin-right: auto" src="doc/landing.png" alt="screenshot of the landing page">
 
 ### Sign In and Sign Up
 
-<img src="doc/sign-in.png" alt="screenshot of the sign in page"><br>
+<p align="center">
+    <img src="doc/sign-in.png" alt="screenshot of the sign in page"><br>
+</p>
 
-<img src="doc/sign-up.png" alt="screenshot of the sign up page">
+<p align="center">
+    <img src="doc/sign-up.png" alt="screenshot of the sign up page">
+</p>
 
 ### Meet the Team page
 
-<img src="doc/dev-team.png" alt="screenshot of meet the team page"><br>
+<p align="center">
+    <img src="doc/dev-team.png" alt="screenshot of meet the team page"><br>
+</p>
 
-<img src="doc/dev-team-click" alt="screenshot of clicking on a team member button"><br>
+<p align="center">
+    <img src="doc/dev-team-click.png" alt="screenshot of clicking on a team member button"><br>
+</p>
 
 <!--
 
