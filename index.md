@@ -7,8 +7,8 @@ The Solution: Create an interactive rating website for events and professors onl
 A live deployment of Rate My Classes can be found at [https://ratemyclassesmanoa.club](https://ratemyclassesmanoa.club).
 
 ## Project Pages 
-M1 Project Page: <a href="https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/1"/><br>
-M2 Project Page: <a href="https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/2"/>
+M1 Project Page: <a href="https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/1">https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/1</a><br>
+M2 Project Page: <a href="https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/2">https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/2</a>
 
 ## User Guide
 This section provides a walkthrough of the Rate My Classes Manoa user interface and its capabilities.
