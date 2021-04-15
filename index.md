@@ -66,13 +66,13 @@ Second, visit the [Rate My Classes github page](https://github.com/Rate-My-Class
 Third, cd into the `rate-my-classes/app` directory and install libraries with:
 
 ```css
-$ meteor npm install
+>> meteor npm install
 ```
 
 Fourth, run the system with:
 
 ```css
-$ meteor npm run start
+>> meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
@@ -112,7 +112,16 @@ The development process for Rate My Classes conformed to [Issue Driven Project M
 
 The following sections document the development history of Rate My Classes.
 
-### Milestone 1: 
+### Milestone 1: Deploy and Mockup Development
+
+The goal of Milestone 1 was to 
+- deploy the system to [Digital Ocean](https://www.digitalocean.com/)
+- create a landing page
+- create mockups for at least four other pages.
+
+Milestone 1 was managed using the [rate-my-classes GitHub Project Board M1](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/1):
+
+<img style="display: block; margin-left: auto; margin-right: auto" src="doc/m1.png" alt="the M1 project board">
 
 <!--
 ### Mockup Page Ideas
