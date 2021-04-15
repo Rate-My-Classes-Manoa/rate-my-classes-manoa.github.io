@@ -6,6 +6,10 @@ The Solution: Create an interactive rating website for events and professors onl
 ## Deployment
 A live deployment of Rate My Classes can be found at [https://ratemyclassesmanoa.club](https://ratemyclassesmanoa.club).
 
+## Project Pages 
+M1 Project Page: <a href="https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/1"/><br>
+M2 Project Page: <a href="https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/2"/>
+
 ## User Guide
 This section provides a walkthrough of the Rate My Classes Manoa user interface and its capabilities.
 
@@ -49,10 +53,6 @@ The main data model of RateMyClasses consist of three collections (Professor, Cl
 
 The fields in bold are the primary keys that join each collection.
 <!--
-
-## Project Pages 
-M1 Project Page: <a href="https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/1"/><br>
-M2 Project Page: <a href="https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/2"/>
 
 ### Mockup Page Ideas
 A user would create a profile using their UH manoa emails to post reviews for certain classes/professors they’ve taken. Users do not need to login to view the reviews however.
