@@ -10,13 +10,19 @@ A live deployment of Rate My Classes can be found at [https://ratemyclassesmanoa
 This section provides a walkthrough of the Rate My Classes Manoa user interface and its capabilities.
 
 ### Landing Page
+The landing page is the first thing the users see upon visiting the root URL to the site.
+
 <img style="display: block; margin-left: auto; margin-right: auto" src="doc/landing.png" alt="screenshot of the landing page">
 
 ### Sign In and Sign Up
 
+Clicking on the "Log In" button in upper right corner of the navbar, will take you to the following page to log in. You must have been previously registered with the system to use this option:
+
 <p align="center">
     <img src="doc/sign-in.png" alt="screenshot of the sign in page"><br>
 </p>
+
+Alternatively, you can select “Get Started” to go to the following page and register as a new user:
 
 <p align="center">
     <img src="doc/sign-up.png" alt="screenshot of the sign up page">
