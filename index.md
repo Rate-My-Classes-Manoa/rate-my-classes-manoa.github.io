@@ -48,9 +48,17 @@ Alternatively, you can select “Get Started” to go to the following page and 
 
 <br>
 
+### Profile Page
+
+Once logged in, you will be taken to their profile page.
+
+<img style="display: block; margin-left: auto; margin-right: auto" src="doc/userProfile.png" alt="mockup of the User Profile page">
+
+<br>
+
 ### Community Events
 
-Once logged in, you can click on the "Community Events" tab to find out what things are happening at UH Manoa,
+You can then click on the "Community Events" tab to find out what things are happening at UH Manoa,
 
 <img style="display: block; margin-left: auto; margin-right: auto" src="doc/events.png" alt="screenshot of the Community Events page">
 
