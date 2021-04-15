@@ -90,6 +90,29 @@ The main data model of RateMyClasses consist of three collections (Professor, Cl
 
 The fields in bold are the primary keys that join each collection.
 
+<br>
+
+## Development History
+
+The development process for Rate My Classes conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/morea/project-management/reading-guidelines-idpm.html) practices. These practices can be summed up as follows:
+
+- Development consists of a sequence of Milestones.
+
+- Each Milestone is specified as a set of tasks.
+ 
+- Each task is described using a GitHub Issue, and is assigned to a single developer to complete.
+  
+- Tasks should typically consist of work that can be completed in 2-4 days.
+   
+- The work for each task is accomplished with a git branch named “issue-XX”, where XX is replaced by the issue number.
+  
+- When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
+  
+- The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
+
+The following sections document the development history of Rate My Classes.
+
+### Milestone 1: 
 
 <!--
 ### Mockup Page Ideas
