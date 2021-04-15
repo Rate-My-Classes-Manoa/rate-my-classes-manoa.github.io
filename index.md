@@ -147,7 +147,7 @@ Milestone 2 is being managed using the [rate-my-classes GitHub Project Board M2]
 
 <br>
 
-## Team
+## Contact Us
 
 Rate My Classes is designed, implemented, and maintained by Ujjwal Gautam, Tony Long, Seth Tanoue, and [Mark Young](mailto:masyoung@hawaii.edu).
 
