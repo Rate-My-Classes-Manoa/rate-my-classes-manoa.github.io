@@ -1,3 +1,12 @@
+## Table of Contents
+- [Overview](#overview)
+- [Deployment](#deployment)
+- [User Guide](#user-guide)
+- [Community Feedback](#community-feedback)
+- [Developer Guide](#developer-guide)
+- [Development History](#development-history)
+
+
 ## Overview
 The Problem: There isn’t a dedicated website for UH specific reviews, for example, ratemyprofessor doesn’t come off as personalized or “peer reviewed” because it doesn’t really have profiles of people.
 
@@ -134,7 +143,7 @@ Milestone 2 is being managed using the [rate-my-classes GitHub Project Board M2]
 
 
 <br><br><br><br>
-[rate-my-classes-manoa.github.io](https://rate-my-classes-manoa.github.io/) is maintained by [rate-my-classes](https://github.com/Rate-My-Classes-Manoa).
+<strong>[rate-my-classes-manoa.github.io](https://rate-my-classes-manoa.github.io/) is maintained by [rate-my-classes](https://github.com/Rate-My-Classes-Manoa). </strong>
 
 <!--
 ### Mockup Page Ideas
