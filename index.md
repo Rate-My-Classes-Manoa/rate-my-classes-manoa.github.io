@@ -11,7 +11,11 @@
 ## Overview
 There isn’t a dedicated website for University of Hawaii specific reviews. For example, [ratemyprofessors.com](https://www.ratemyprofessors.com/) doesn’t come off as personalized or “peer reviewed” because it doesn’t have profiles of people.
 
-In response to this, we're creating an interactive website to rate events and professors, but only for UH Manoa students.
+In response to this, we're creating an interactive website to rate events and professors, but only for UH Manoa students. This application illustrates various technologies, include:
+
+- [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
+- [React](https://reactjs.org/) for component-based UI implementation and routing.
+- [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 
 <br>
 
