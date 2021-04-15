@@ -1,1 +1,6 @@
+title: Rate My Classes
+description: Rate Claases and Professors at UH Manoa!
 theme: jekyll-theme-slate
+github:
+  is_project_page: true
+  repository_url: https://github.com/Rate-My-Classes-Manoa/rate-my-classes
