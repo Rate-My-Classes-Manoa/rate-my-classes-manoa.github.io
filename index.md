@@ -13,47 +13,45 @@ M2 Project Page: <a href="https://github.com/Rate-My-Classes-Manoa/rate-my-class
 ## User Guide
 This section provides a walkthrough of the Rate My Classes Manoa user interface and its capabilities.
 
+
 ### Landing Page
 The landing page is the first thing the users see upon visiting the root URL to the site.
 
 <img style="display: block; margin-left: auto; margin-right: auto" src="doc/landing.png" alt="screenshot of the landing page">
 
+<br>
+
 ### Sign In and Sign Up
 
 Clicking on the "Log In" button in upper right corner of the navbar, will take you to the following page to log in. You must have been previously registered with the system to use this option:
 
-<p align="center">
-    <img src="doc/sign-in.png" alt="screenshot of the sign in page"><br>
-</p>
+<img style="display: block; margin-left: auto; margin-right: auto" src="doc/sign-in.png" alt="screenshot of the sign in page"><br>
 
 Alternatively, you can select “Get Started” to go to the following page and register as a new user:
 
-<p align="center">
-    <img src="doc/sign-up.png" alt="screenshot of the sign up page">
-</p>
+<img style="display: block; margin-left: auto; margin-right: auto" src="doc/sign-up.png" alt="screenshot of the sign up page">
+
+<br>
 
 ### Meet the Team page
 
-<p align="center">
-    <img src="doc/dev-team.png" alt="screenshot of meet the team page"><br>
-</p>
+<img style="display: block; margin-left: auto; margin-right: auto" src="doc/dev-team.png" alt="screenshot of meet the team page"><br>
 
-<p align="center">
-    <img src="doc/dev-team-click.png" alt="screenshot of clicking on a team member button"><br>
-</p>
+<img style="display: block; margin-left: auto; margin-right: auto" src="doc/dev-team-click.png" alt="screenshot of clicking on a team member button"><br>
+
+<br>
 
 ### Data Model
 
 The main data model of RateMyClasses consist of three collections (Professor, Classes, and Profile). The Professor and Classes collections interact with each other though the "join" collection Classes/Professor. The Profile and Classes collection interact with each other though the "join" collection Profile/Classes.
 
 
-<p align="center">
-    <img src="doc/RateMyClassesDiagram.png" alt="RateMyClasses Diagram">
-</p>
+<img style="display: block; margin-left: auto; margin-right: auto" src="doc/RateMyClassesDiagram.png" alt="RateMyClasses Diagram">
 
 The fields in bold are the primary keys that join each collection.
-<!--
 
+
+<!--
 ### Mockup Page Ideas
 A user would create a profile using their UH manoa emails to post reviews for certain classes/professors they’ve taken. Users do not need to login to view the reviews however.
 
