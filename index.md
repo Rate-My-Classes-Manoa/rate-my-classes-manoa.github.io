@@ -119,6 +119,8 @@ Milestone 1 was managed using the [rate-my-classes GitHub Project Board M1](http
 
 <img style="display: block; margin-left: auto; margin-right: auto" src="doc/m1.png" alt="the M1 project board">
 
+<br>
+
 ### Milestone 2: Great Improvements
 
 The goal of Milestone 2 is to
@@ -128,6 +130,11 @@ The goal of Milestone 2 is to
 Milestone 2 is being managed using the [rate-my-classes GitHub Project Board M2](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/2):
 
 <img style="display: block; margin-left: auto; margin-right: auto" src="doc/m2.png" alt="the M2 project board">
+
+
+
+<br><br><br><br>
+[rate-my-classes-manoa.github.io](https://rate-my-classes-manoa.github.io/) is maintained by [rate-my-classes](https://github.com/Rate-My-Classes-Manoa).
 
 <!--
 ### Mockup Page Ideas
