@@ -64,6 +64,14 @@ You can then click on the "Community Events" tab to find out what things are hap
 
 <br>
 
+## Class Review Page
+
+To view the class reviews, users need to be logged in,
+
+<img style="display: block; margin-left: auto; margin-right: auto" src="doc/classReviewMockUp.PNG" alt="screenshot of the Class Review Page">
+
+<br>
+
 ### Meet the Team page
 
 In the footer of every page, you can click on the "Dev Team" link. This will take you to the following page:
