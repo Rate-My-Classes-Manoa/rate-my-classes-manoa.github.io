@@ -61,7 +61,7 @@ Once logged in, you will be taken to your profile page. Here you can see the cla
 
 To update your profile information, click on the "Edit Profile" button. This will bring you to this page. Here you can use the form to make the necessary changes.
 
-![Update Profile ScreenShot](doc/updateProfile.png)
+![Update Profile ScreenShot](doc/eDITpROFILE.png)
 
 <br>
 
