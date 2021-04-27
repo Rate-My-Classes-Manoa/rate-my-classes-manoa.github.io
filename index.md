@@ -38,42 +38,57 @@ The landing page is the first thing the users see upon visiting the root URL to 
 
 ### Sign In and Sign Up
 
-Clicking on the "Log In" button in upper right corner of the navbar, will take you to the following page to log in. You must have been previously registered with the system to use this option:
+Click on the "Get Started" button in upper right corner of the navbar, then select "Sign In" to go to the following page to log in. You must have been previously registered with the system to use this option:
 
 ![screenshot of the sign in page](doc/signin.png)
 
 <br>
 <br>
 
-Alternatively, you can select “Get Started” to go to the following page and register as a new user:
+Alternatively, you can select “Sign Up” to go to the following page and register as a new user:
 
 ![screenshot of the sign up page](doc/signup.png)
 <br>
 
 ### Profile Page
 
-Once logged in, you will be taken to your profile page.
+Once logged in, you will be taken to your profile page. Here you can see the class and professor reviews that you have submitted - both posted reviews and reviews waiting to be approved by the Administrator.
 
 ![mockup of the User Profile page](doc/profile.png)
 <br>
-
-### Community Events
-
-You can then click on the "Community Events" tab to find out what things are happening at UH Manoa,
-
-![screenshot of the Community Events page](doc/events.png)
-
 <br>
 
-## Class Review Page
+To update your profile information, click on the "Edit Profile" button. This will bring you to this page. Here you can use the form to make the necessary changes.
 
-To view the class reviews, users need to be logged in,
+![Update Profile ScreenShot](doc/updateProfile.png)
+<br>
+
+
+### Class Review Page
+
+Click on the "Class Reviews" tab to view the class reviews. Use the dropdown panel to pick the class for which you would like to see reviews.
 
 ![screenshot of the Class Review Page](doc/classReviews.png)
 
 <br>
 
-### Meet the Team page
+### Add Class Review Page
+
+To add a class review, click on the "Add Class Review" tab. Completely fill out the form and then click "Submit."
+
+![screenshot of the Add Class Reviews page](doc/addClassReviews.png)
+
+<br>
+
+### Community Events Page
+
+To find out what things are happening at UH Manoa, click on the "Community Events" tab. 
+
+![screenshot of the Community Events page](doc/events.png)
+
+<br>
+
+### Meet the Team Page
 
 In the footer of every page, you can click on the "Dev Team" link. This will take you to the following page:
 
@@ -85,6 +100,14 @@ In the footer of every page, you can click on the "Dev Team" link. This will tak
 You can click on a name, then a brief description about that person will appear.
 
 ![screenshot of clicking on a team member button](doc/devTeamClick.png)
+
+<br>
+
+### Careers Page
+
+Also in the footer of each page is the "Careers" link. This will take you to the following page, where you can learn a little about working for Rate My Classes Manoa and view current job openings.
+
+![screenshot of the Careers page](doc/careers.png)
 
 <br>
 <br>
