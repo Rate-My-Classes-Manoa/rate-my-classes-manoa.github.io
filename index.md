@@ -130,6 +130,16 @@ The fields in bold are the primary keys that join each collection.
 
 <br>
 
+## Continuous Integration
+
+![ci-badge](https://github.com/rate-my-classes-manoa/rate-my-classes/workflows/rate-my-classes-manoa/badge.svg)
+
+Rate My Classes uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch. Click [here](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/actions) to see the results of all recent <em>workflows</em>. 
+
+The workflow definition can be viewed in the [.github/workflows/ci.yml](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/blob/master/.github/workflows/ci.yml) file.
+
+<br>
+
 ## Development History
 
 The development process for Rate My Classes conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/morea/project-management/reading-guidelines-idpm.html) practices. These practices can be summed up as follows:
