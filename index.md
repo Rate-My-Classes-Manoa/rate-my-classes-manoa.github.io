@@ -40,14 +40,14 @@ The landing page is the first thing the users see upon visiting the root URL to 
 
 Clicking on the "Log In" button in upper right corner of the navbar, will take you to the following page to log in. You must have been previously registered with the system to use this option:
 
-![screenshot of the sign in page](doc/sign-in.png)
+![screenshot of the sign in page](doc/signin.png)
 
 <br>
 <br>
 
 Alternatively, you can select “Get Started” to go to the following page and register as a new user:
 
-![screenshot of the sign up page](doc/sign-up.png)
+![screenshot of the sign up page](doc/signup.png)
 <br>
 
 ### Profile Page
@@ -77,14 +77,14 @@ To view the class reviews, users need to be logged in,
 
 In the footer of every page, you can click on the "Dev Team" link. This will take you to the following page:
 
-![screenshot of meet the team page](doc/dev-team.png)
+![screenshot of meet the team page](doc/devTeam.png)
 
 <br>
 <br>
 
 You can click on a name, then a brief description about that person will appear.
 
-![screenshot of clicking on a team member button](doc/dev-team-click.png)
+![screenshot of clicking on a team member button](doc/devTeamClick.png)
 
 <br>
 <br>
