@@ -32,7 +32,7 @@ This section provides a walkthrough of the Rate My Classes Manoa user interface 
 ### Landing Page
 The landing page is the first thing the users see upon visiting the root URL to the site.
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/landing.png" alt="screenshot of the landing page">
+![screenshot of the landing page](doc/landing.png)
 
 <br>
 
@@ -40,28 +40,28 @@ The landing page is the first thing the users see upon visiting the root URL to 
 
 Clicking on the "Log In" button in upper right corner of the navbar, will take you to the following page to log in. You must have been previously registered with the system to use this option:
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/sign-in.png" alt="screenshot of the sign in page"><br>
+![screenshot of the sign in page](doc/sign-in.png)
+
+<br>
 <br>
 
 Alternatively, you can select “Get Started” to go to the following page and register as a new user:
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/sign-up.png" alt="screenshot of the sign up page">
-
+![screenshot of the sign up page](doc/sign-up.png)
 <br>
 
 ### Profile Page
 
 Once logged in, you will be taken to your profile page.
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/userProfile.png" alt="mockup of the User Profile page">
-
+![mockup of the User Profile page](doc/profile.png)
 <br>
 
 ### Community Events
 
 You can then click on the "Community Events" tab to find out what things are happening at UH Manoa,
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/events.png" alt="screenshot of the Community Events page">
+![screenshot of the Community Events page](doc/events.png)
 
 <br>
 
@@ -69,7 +69,7 @@ You can then click on the "Community Events" tab to find out what things are hap
 
 To view the class reviews, users need to be logged in,
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/classReviewMockUp.PNG" alt="screenshot of the Class Review Page">
+![screenshot of the Class Review Page](doc/classReviews.png)
 
 <br>
 
@@ -77,13 +77,16 @@ To view the class reviews, users need to be logged in,
 
 In the footer of every page, you can click on the "Dev Team" link. This will take you to the following page:
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/dev-team.png" alt="screenshot of meet the team page"><br>
+![screenshot of meet the team page](doc/dev-team.png)
+
+<br>
 <br>
 
 You can click on a name, then a brief description about that person will appear.
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/dev-team-click.png" alt="screenshot of clicking on a team member button"><br>
+![screenshot of clicking on a team member button](doc/dev-team-click.png)
 
+<br>
 <br>
 
 ## Community Feedback
@@ -124,8 +127,7 @@ Rate My Classes is based upon [meteor-application-template-react](https://ics-so
 
 The main data model of RateMyClasses consist of three collections (Professor, Classes, and Profile). The Professor and Classes collections interact with each other though the "join" collection Classes/Professor. The Profile and Classes collection interact with each other though the "join" collection Profile/Classes.
 
-
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/RateMyClassesDiagram.png" alt="RateMyClasses Diagram">
+![RateMyClasses Diagram](doc/RateMyClassesDiagram.png)
 
 The fields in bold are the primary keys that join each collection.
 
@@ -170,7 +172,7 @@ The goal of Milestone 1 was to
 
 Milestone 1 was managed using the [rate-my-classes GitHub Project Board M1](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/1):
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/m1.png" alt="the M1 project board">
+![the M1 project board](doc/m1.png)
 
 <br>
 
@@ -182,7 +184,7 @@ The goal of Milestone 2 is to
 
 Milestone 2 is being managed using the [rate-my-classes GitHub Project Board M2](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/2):
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="doc/m2.png" alt="the M2 project board">
+![the M2 project board](doc/m2.png)
 
 <br>
 
