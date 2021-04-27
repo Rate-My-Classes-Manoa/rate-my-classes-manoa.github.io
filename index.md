@@ -203,13 +203,28 @@ Milestone 1 was managed using the [rate-my-classes GitHub Project Board M1](http
 
 ### Milestone 2: Great Improvements
 
-The goal of Milestone 2 is to
+The goal of Milestone 2 was to
+
 - Significantly improve the functionality and quality of the application beyond M1, and
 - Significantly improve the software engineering process beyond M1.
 
-Milestone 2 is being managed using the [rate-my-classes GitHub Project Board M2](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/2):
+Milestone 2 was managed using the [rate-my-classes GitHub Project Board M2](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/2):
 
 ![the M2 project board](doc/m2.png)
+
+<br>
+
+### Milestone 3: Potentially Finish
+
+The goal of Milestone 3 is to
+
+- Significantly improve the functionality of the system from Milestone M2. 
+- Find at least five UH community members to try out the system and provide feedback.
+- Implement acceptance testing.
+
+Milestone 3 is being managed using the [rate-my-classes GitHub Project Board M3](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/3):
+
+![the M3 project board](doc/m3.png)
 
 <br>
 
