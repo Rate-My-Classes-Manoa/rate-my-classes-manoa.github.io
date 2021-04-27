@@ -4,6 +4,7 @@
 - [User Guide](#user-guide)
 - [Community Feedback](#community-feedback)
 - [Developer Guide](#developer-guide)
+- [Continuous Integration](#continuous-integration) 
 - [Development History](#development-history)
 
 <br>
