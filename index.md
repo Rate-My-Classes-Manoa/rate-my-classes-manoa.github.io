@@ -48,6 +48,7 @@ Click on the "Get Started" button in upper right corner of the navbar, then sele
 Alternatively, you can select “Sign Up” to go to the following page and register as a new user:
 
 ![screenshot of the sign up page](doc/signup.png)
+
 <br>
 
 ### Profile Page
@@ -61,6 +62,7 @@ Once logged in, you will be taken to your profile page. Here you can see the cla
 To update your profile information, click on the "Edit Profile" button. This will bring you to this page. Here you can use the form to make the necessary changes.
 
 ![Update Profile ScreenShot](doc/updateProfile.png)
+
 <br>
 
 
