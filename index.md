@@ -134,14 +134,14 @@ Second, visit the [Rate My Classes github page](https://github.com/Rate-My-Class
 
 Third, cd into the `rate-my-classes/app` directory and install libraries with:
 
-```css
-$ meteor npm install
+```
+meteor npm install
 ```
 
 Fourth, run the system with:
 
-```css
-$ meteor npm run start
+```
+meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
@@ -180,9 +180,9 @@ ESLint should run without generating any errors.
 
 ### End to End Testing
 
-Rate My Classes Manoa [TestCafe](https://devexpress.github.io/testcafe/) to provide automated end-to-end testing.
+Rate My Classes uses [TestCafe](https://devexpress.github.io/testcafe/) to provide automated end-to-end testing.
 
-The Rate My Classes Manoa end-to-end test code employs the page object model design pattern.  In the [rate-my-class/app/tests](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/tree/master/app/tests) directory, the file [tests.testcafe.js](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/tree/master/app/tests) contains the TestCafe test definitions. The remaining files in the directory contain "page object models" for the various pages in the system. This organization makes the test code shorter, easier to understand, and easier to debug.
+The Rate My Classes Manoa end-to-end test code employs the page object model design pattern.  In the [rate-my-class/app/tests](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/tree/master/app/tests) directory, the file [tests.testcafe.js](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/blob/master/app/tests/tests.testcafe.js) contains the TestCafe test definitions. The remaining files in the directory contain "page object models" for the various pages in the system. This organization makes the test code shorter, easier to understand, and easier to debug.
 
 To run the end-to-end tests in development mode, you must first start up a Rate My Classes instance by invoking `meteor npm run start` in one console window.
 
