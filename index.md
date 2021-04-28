@@ -49,7 +49,7 @@ Click on the "Get Started" button in upper right corner of the navbar, then sele
 
 Alternatively, you can select “Sign Up” to go to the following page and register as a new user. User input will reflect on their profile page after signing in:
 
-![screenshot of the sign up page](doc/signup.png)
+![screenshot of the sign up page](doc/signupv1.png)
 
 <br>
 
