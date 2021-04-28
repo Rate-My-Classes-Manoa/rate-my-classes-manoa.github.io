@@ -162,7 +162,7 @@ The fields in bold are the primary keys that join each collection.
 
 ## Initialization
 
-The [config](https://github.com/bowfolios/bowfolios/tree/master/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/bowfolios/bowfolios/blob/master/config/settings.development.json).
+The [config](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/blob/master/config) directory is intended to hold settings files.  The directory contains one file: [settings.development.json](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/blob/master/config/settings.development.json).
 
 This file contains default definitions for Classes, Events, Professors, and Profiles and the relationships between them. 
 
@@ -191,8 +191,6 @@ Then, in another console window, start up the end-to-end tests with:
 ```
 meteor npm run testcafe
 ```
-
-
 
 You can also run the testcafe tests in "continuous integration mode".  This mode is appropriate when you want to run the tests using a continuous integration service like Jenkins, Semaphore, CircleCI, etc.  In this case, it is problematic to already have the server running in a separate console, and you cannot have the browser window appear and disappear.
 
