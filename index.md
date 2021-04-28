@@ -4,6 +4,8 @@
 - [User Guide](#user-guide)
 - [Community Feedback](#community-feedback)
 - [Developer Guide](#developer-guide)
+- [Initialization](#initialization)
+- [Quality Assurance](#quality-assurance) 
 - [Continuous Integration](#continuous-integration) 
 - [Development History](#development-history)
 
@@ -61,7 +63,7 @@ Once logged in, you will be taken to your profile page. Here you can see the cla
 
 To update your profile information, click on the "Edit Profile" button. This will bring you to this page. Here you can use the form to make the necessary changes.
 
-![Update Profile ScreenShot](doc/eDITpROFILE.png)
+![Update Profile ScreenShot](doc/editProfile.png)
 
 <br>
 
@@ -133,13 +135,13 @@ Second, visit the [Rate My Classes github page](https://github.com/Rate-My-Class
 Third, cd into the `rate-my-classes/app` directory and install libraries with:
 
 ```css
->> meteor npm install
+$ meteor npm install
 ```
 
 Fourth, run the system with:
 
 ```css
->> meteor npm run start
+$ meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
@@ -155,6 +157,48 @@ The main data model of RateMyClasses consist of three collections (Professor, Cl
 ![RateMyClasses Diagram](doc/RateMyClassesDiagram.png)
 
 The fields in bold are the primary keys that join each collection.
+
+<br>
+
+## Initialization
+
+The [config](https://github.com/bowfolios/bowfolios/tree/master/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/bowfolios/bowfolios/blob/master/config/settings.development.json).
+
+This file contains default definitions for Classes, Events, Professors, and Profiles and the relationships between them. 
+
+## Quality Assurance
+
+### ESLint
+
+Rate My Classes Manoa includes a [.eslintrc](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+
+```
+meteor npm run lint
+```
+
+ESLint should run without generating any errors.
+
+### End to End Testing
+
+Rate My Classes Manoa [TestCafe](https://devexpress.github.io/testcafe/) to provide automated end-to-end testing.
+
+The Rate My Classes Manoa end-to-end test code employs the page object model design pattern.  In the [rate-my-class/app/tests](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/tree/master/app/tests) directory, the file [tests.testcafe.js](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/tree/master/app/tests) contains the TestCafe test definitions. The remaining files in the directory contain "page object models" for the various pages in the system. This organization makes the test code shorter, easier to understand, and easier to debug.
+
+To run the end-to-end tests in development mode, you must first start up a Rate My Classes instance by invoking `meteor npm run start` in one console window.
+
+Then, in another console window, start up the end-to-end tests with:
+
+```
+meteor npm run testcafe
+```
+
+
+
+You can also run the testcafe tests in "continuous integration mode".  This mode is appropriate when you want to run the tests using a continuous integration service like Jenkins, Semaphore, CircleCI, etc.  In this case, it is problematic to already have the server running in a separate console, and you cannot have the browser window appear and disappear.
+
+To run the testcafe tests in continuous integration mode, first ensure that Rate My Classes is not running in any console.
+
+Then, invoke `meteor npm run testcafe-ci`.  
 
 <br>
 
