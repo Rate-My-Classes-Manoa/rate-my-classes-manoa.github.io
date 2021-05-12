@@ -88,7 +88,7 @@ To add a class review, click on the "Add Class Review" tab. Completely fill out 
 
 If logged in as an Administrator, you can click the "Add a Class" tab to add another class to the database. Completely fill out the form and then click "Submit."
 
-![screenshot of the Add Class Reviews page](doc/addClass.png)
+![screenshot of the Add a Class page](doc/addClass.png)
 
 <br>
 
@@ -104,7 +104,7 @@ Click on the "Professor Reviews" tab to view the Professor reviews. Use the drop
 
 To add a Professor review, click on the "Add Professor Review" tab. Completely fill out the form and then click "Submit."
 
-![screenshot of the Add Class Reviews page](doc/addProfReview.png)
+![screenshot of the Add Professor Review page](doc/addProfReview.png)
 
 <br>
 
@@ -112,7 +112,7 @@ To add a Professor review, click on the "Add Professor Review" tab. Completely f
 
 If logged in as an Administrator, you can click the "Add a Prof" tab to add another Professor to the database. Completely fill out the form and then click "Submit."
 
-![screenshot of the Add Class Reviews page](doc/addProf.png)
+![screenshot of the Add a Professor page](doc/addProf.png)
 
 <br>
 
@@ -128,7 +128,7 @@ To find out what things are happening at UH Manoa, click on the "Community Event
 
 If logged in as an Administrator, you can click the "Add Event" tab to add another event to the database. Completely fill out the form and then click "Submit."
 
-![screenshot of the Add Class Reviews page](doc/addEvent.png)
+![screenshot of the Add Events page](doc/addEvent.png)
 
 <br>
 
