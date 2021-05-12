@@ -78,9 +78,17 @@ Click on the "Class Reviews" tab to view the class reviews. Use the dropdown pan
 
 ### Add Class Review Page
 
-To add a class review, click on the "Add Class Review" tab. Completely fill out the form and then click "Submit."
+To add a class review, click on the "Add Class Review" tab. Completely fill out the form and then click "Submit." All reviews must be approved by the Administrator before they appear on the website.
 
 ![screenshot of the Add Class Reviews page](doc/addClassReviews.png)
+
+<br>
+
+### Accept/Deny a Class Review (Admin)
+
+If logged in as an Administrator, in the Administrator home page, there is a "Pending Reviews" section. In this section, you can choose to accept or delete any pending class reviews. Accepted reviews will appear on the "Class Reviews" page for all users to view.
+
+![screenshot of the Pending Reviews section](doc/acceptClassReview.png)
 
 <br>
 
@@ -97,6 +105,14 @@ If logged in as an Administrator, you can click the "Add a Class" tab to add ano
 Click on the "Professor Reviews" tab to view the Professor reviews. Use the dropdown panel to pick the Professor for whom you would like to see reviews.
 
 ![screenshot of the Professor Review Page](doc/professorReviews.png)
+
+<br>
+
+### Accept/Deny a Professor Review (Admin)
+
+If logged in as an Administrator, in the Administrator home page, there is a "Pending Professor Reviews" section. In this section, you can choose to accept or delete any pending Professor reviews. Accepted reviews will appear on the "Professor Reviews" page for all users to view.
+
+![screenshot of the Pending Reviews section](doc/acceptProfessorReviews.png)
 
 <br>
 
