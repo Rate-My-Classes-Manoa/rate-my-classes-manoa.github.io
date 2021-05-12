@@ -302,13 +302,13 @@ Milestone 2 was managed using the [rate-my-classes GitHub Project Board M2](http
 
 ### Milestone 3: Potentially Finish
 
-The goal of Milestone 3 is to
+The goal of Milestone 3 was to
 
 - Significantly improve the functionality of the system from Milestone M2. 
 - Find at least five UH community members to try out the system and provide feedback.
 - Implement acceptance testing.
 
-Milestone 3 is being managed using the [rate-my-classes GitHub Project Board M3](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/3):
+Milestone 3 was managed using the [rate-my-classes GitHub Project Board M3](https://github.com/Rate-My-Classes-Manoa/rate-my-classes/projects/3):
 
 ![the M3 project board](doc/m3.png)
 
