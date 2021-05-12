@@ -160,6 +160,10 @@ Also in the footer of each page is the "Careers" link. This will take you to the
 
 We are interested in your experience using Rate My Classes! If you would like, please take a couple of minutes to fill out the [Rate My Classes Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeVeaA6BbtIEhH--atN_EEg4dQoA27bt7Rgz3st0ZLUwLmciA/viewform?usp=sf_link). It contains only five short questions and will help us understand how to improve the system.
 
+Here are what some users are saying:
+* "Easy navigation, but I don't like that I need to upload a picture to sign up for an account."
+* "I like the site...very in tune with Manoa. I think the search mechanism can be improved."
+
 <br>
 
 ## Developer Guide
