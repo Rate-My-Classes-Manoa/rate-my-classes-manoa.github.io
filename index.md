@@ -84,9 +84,25 @@ To add a class review, click on the "Add Class Review" tab. Completely fill out 
 
 <br>
 
+### Professor Review Page
+
+Click on the "Professor Reviews" tab to view the Professor reviews. Use the dropdown panel to pick the Professor for whom you would like to see reviews.
+
+![screenshot of the Professor Review Page](doc/professorReviews.png)
+
+<br>
+
+### Add Professor Review Page
+
+To add a Professor review, click on the "Add Professor Review" tab. Completely fill out the form and then click "Submit."
+
+![screenshot of the Add Class Reviews page](doc/addProfReview.png)
+
+<br>
+
 ### Community Events Page
 
-To find out what things are happening at UH Manoa, click on the "Community Events" tab. 
+To find out what things are happening at UH Manoa, click on the "Community Events" tab.
 
 ![screenshot of the Community Events page](doc/events.png)
 
