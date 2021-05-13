@@ -178,8 +178,18 @@ We are interested in your experience using Rate My Classes! If you would like, p
 
 Here are what some users are saying:
 * "Easy navigation, but I don't like that I need to upload a picture to sign up for an account."
+  
+
 * "I like the site...very in tune with Manoa. I think the search mechanism can be improved."
+  
+
 * "I really like this app! I don't like that the 'Add Class Review' and 'Add Professor Review' pages are separate from the 'Class Reviews' and 'Professor Reviews' pages."
+
+
+* "The Rate My Classes app is a good idea, and the interface is easy to use."
+
+
+* "Some of the font color choices seem odd, but as a whole I like the app."
 
 <br>
 
